@@ -1,2 +1,2 @@
-# SpftUni-Cources
-Cources from my education @Softuni.
+# SoftUni-Courses
+Courses from my education @Softuni.
